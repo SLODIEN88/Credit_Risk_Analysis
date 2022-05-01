@@ -9,6 +9,8 @@ I used Python to determine the results. Six machine learning models were used to
 The balanced accuracy score is 66%. The recall for a high risk loan is 32% and precison being 72%
 
 ![image](https://user-images.githubusercontent.com/96274446/166161601-10f0b383-5049-43c2-bbb6-1847592f327c.png)
+![image](https://user-images.githubusercontent.com/96274446/166162126-45ca4203-3139-4118-8bca-54a7e0ee17e6.png)
+
 
 ### SMOTE Oversampling
 The balanced accuracy score is 62%. The recall for a high risk loan is 62% and precison being 1%
